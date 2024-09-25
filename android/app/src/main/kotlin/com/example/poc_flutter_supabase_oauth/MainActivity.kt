@@ -1,4 +1,4 @@
-package com.example.poc_flutter_supabase_oauth
+package cz.hlavac.ondra.pocfluttersupabaseoauth
 
 import io.flutter.embedding.android.FlutterActivity
 
